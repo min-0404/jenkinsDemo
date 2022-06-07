@@ -24,7 +24,7 @@ pipeline {
     }
     post {
         always {
-            echo "pipeline job done"
+            echo "202206070226"
         }
     }
 }
